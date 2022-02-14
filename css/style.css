@@ -2,14 +2,10 @@
     margin: 0;
 }
 
-.conteiner{
+.container{
     background-color: #4EA0FF;
-    height: 150px;
-    
-}
-
-img{
-    height: 150px;
+    height: 150px; 
+    background-image: url("../img/pattern.png");  
 }
 
 h1{
@@ -21,10 +17,64 @@ h5{
     color: gray;
 }
 
+.scrittagialla{
+    background-color: yellow;
+}
+
 #data{
     color: rgb(0, 182, 255);
 }
 
-.tim{
-    
+.tim1, .tim2{
+    width: 40%;
+    height: 700px;
 }
+
+
+figcaption{
+    font-size: 20px;
+}
+
+p{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+li{
+    margin-top: 10px;
+    font-size: 30px;
+}
+
+table, th, td{
+    font-size: 30px;
+    border-collapse: collapse;
+}
+
+th, td{
+    padding: 10px;
+    width: 20%;
+}
+
+thead{
+    background-color: rgb(8, 114, 214);
+}
+
+.colorato{
+    background-color: #4EA0FF;
+}
+
+.computer, .grafico{
+    color: white;
+    font-size: 30px;
+    width: 300px;
+    height: 200px;
+}
+
+.grafico{
+    background-image: url("../img/graph.jpg");
+}
+
+.computer{
+    background-image: url("../img/monitor.jpg");
+}
+
