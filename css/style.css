@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+
+.conteiner{
+    background-color: #4EA0FF;
+    height: 150px;
+    
+}
+
+img{
+    height: 150px;
+}
+
+h1{
+    font-size: 80px;
+}
+
+h5{
+    font-size: 30px;
+    color: gray;
+}
+
+#data{
+    color: rgb(0, 182, 255);
+}
+
+.tim{
+    
+}
